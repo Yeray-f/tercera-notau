@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "ejercicios_fe8ffb6e"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "Datospersonales",
+            "request": "launch",
+            "mainClass": "Datospersonales",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "OperadoresAritmeticos",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "MiniProyecto",
+            "request": "launch",
+            "mainClass": "MiniProyecto",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioDescuento",
+            "request": "launch",
+            "mainClass": "EjercicioDescuento",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBanco",
+            "request": "launch",
+            "mainClass": "EjercicioBanco",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "Constantes",
+            "request": "launch",
+            "mainClass": "Constantes",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "ComparacionLogica",
+            "request": "launch",
+            "mainClass": "ComparacionLogica",
+            "projectName": "ejercicios_e9a7332d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ejercicios_e9a7332d"
+        }
+    ]
+}
