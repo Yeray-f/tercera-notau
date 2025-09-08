@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "TablaMultiplicar",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "ContadorPares",
+            "request": "launch",
+            "mainClass": "ContadorPares",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "ComparacionLogica",
+            "request": "launch",
+            "mainClass": "ComparacionLogica",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Constantes",
+            "request": "launch",
+            "mainClass": "Constantes",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Datospersonales",
+            "request": "launch",
+            "mainClass": "Datospersonales",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Ejemplos.Main",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "comparacion",
+            "request": "launch",
+            "mainClass": "Ejemplos.comparacion",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "ejemplo",
+            "request": "launch",
+            "mainClass": "Ejemplos.ejemplo",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "leerdecimal",
+            "request": "launch",
+            "mainClass": "Ejemplos.leerdecimal",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "leerentero",
+            "request": "launch",
+            "mainClass": "Ejemplos.leerentero",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "leerlinea",
+            "request": "launch",
+            "mainClass": "Ejemplos.leerlinea",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "leerpalabra",
+            "request": "launch",
+            "mainClass": "Ejemplos.leerpalabra",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "logicos",
+            "request": "launch",
+            "mainClass": "Ejemplos.logicos",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "nombre",
+            "request": "launch",
+            "mainClass": "Ejemplos.nombre",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBanco",
+            "request": "launch",
+            "mainClass": "EjercicioBanco",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioDescuento",
+            "request": "launch",
+            "mainClass": "EjercicioDescuento",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "MayorDeTres",
+            "request": "launch",
+            "mainClass": "MayorDeTres",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "MiniProyecto",
+            "request": "launch",
+            "mainClass": "MiniProyecto",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "OperadoresAritmeticos",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "src_c5bb1349"
+        },
+        {
+            "type": "java",
+            "name": "maquillaje",
+            "request": "launch",
+            "mainClass": "maquillaje",
+            "projectName": "src_c5bb1349"
+        }
+    ]
+}
