@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "comparacion",
+            "request": "launch",
+            "mainClass": "Ejemplos.comparacion",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "ElementosPares",
+            "request": "launch",
+            "mainClass": "Tallerlogica.ElementosPares",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "Continentes",
+            "request": "launch",
+            "mainClass": "Tallerlogica.Continentes",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "NumeroPrimo",
+            "request": "launch",
+            "mainClass": "TallerPractico.NumeroPrimo",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "AreaPoligono",
+            "request": "launch",
+            "mainClass": "TallerPractico.AreaPoligono",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "Anagramas",
+            "request": "launch",
+            "mainClass": "TallerPractico.Anagramas",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "TallerPractico.Fibonacci",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "TallerPractico.FizzBuzz",
+            "projectName": "unidad-1_ba611f4"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "unidad-1_ba611f4"
+        }
+    ]
+}
