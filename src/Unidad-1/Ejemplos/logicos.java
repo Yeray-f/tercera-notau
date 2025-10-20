@@ -1,4 +1,3 @@
-package Ejemplos;
 public class logicos {
     public static void main(String[] args) {
         int a = 10;

@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntercambiarValores",
+            "request": "launch",
+            "mainClass": "IntercambiarValores",
+            "projectName": "TerceraNota_69802226"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora1",
+            "request": "launch",
+            "mainClass": "Calculadora1",
+            "projectName": "TerceraNota_69802226"
+        },
+        {
+            "type": "java",
+            "name": "Reasignacion",
+            "request": "launch",
+            "mainClass": "Unidad2.Ejercicios.Reasignacion",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo2",
+            "request": "launch",
+            "mainClass": "Ejemplo2",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "AcomuladorConSuma",
+            "request": "launch",
+            "mainClass": "AcomuladorConSuma",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "SaltarNumeros",
+            "request": "launch",
+            "mainClass": "SaltarNumeros",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "Impares",
+            "request": "launch",
+            "mainClass": "Impares",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
             "name": "comparacion",
             "request": "launch",
             "mainClass": "Ejemplos.comparacion",

@@ -1,4 +1,4 @@
-package Ejemplos;
+
 import java.util.Scanner;
 
 public class leerlinea {

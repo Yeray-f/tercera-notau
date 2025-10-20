@@ -1,5 +1,3 @@
-package Ejemplos;
-
 public class comparacion {
     public static void main(String[] args) {
         int numero1 = 10;
