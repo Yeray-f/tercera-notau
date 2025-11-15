@@ -36,25 +36,19 @@ public class CuentaBancaria {
 
     public void depositar(double cantidad) {
         saldo += cantidad;
-        System.out.println("Depósito exitoso. Nuevo saldo: $" + saldo);
     }
 
     public void retirar(double cantidad) {
-        if (cantidad <= saldo) {
-            saldo -= cantidad;
-            System.out.println("Retiro exitoso. Nuevo saldo: $" + saldo);
-        } else {
-            System.out.println("Fondos insuficientes.");
-        }
+        saldo -= cantidad;
     }
 
-    public void consultarSaldo() {
-        System.out.println("Saldo actual: $" + saldo);
+    public double consultarSaldo() {
+        return saldo;
     }
 
     public void mostrarInformacion() {
         System.out.println("Titular: " + titular);
         System.out.println("Número de cuenta: " + numeroCuenta);
-        System.out.println("Saldo actual: $" + saldo);
+        System.out.println("Saldo actual: " + saldo);
     }
 }

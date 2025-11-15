@@ -5,6 +5,7 @@ public class Persona {
     private double peso;
     private double altura;
 
+    // Constructor
     public Persona(String nombre, int edad, double peso, double altura) {
         this.nombre = nombre;
         this.edad = edad;
@@ -53,12 +54,14 @@ public class Persona {
     }
 
     public void saludar() {
-        System.out.println("Hola, soy " + nombre + ", tengo " + edad + " años.");
+        System.out.println("Hola, soy " + nombre + " y tengo " + edad + " años.");
     }
 
     public void mostrarInformacion() {
         saludar();
+        System.out.println("Peso: " + peso + " kg");
+        System.out.println("Altura: " + altura + " m");
         System.out.println("IMC: " + calcularIMC());
-        System.out.println("Es mayor de edad: " + esMayorDeEdad());
+        System.out.println("¿Es mayor de edad?: " + esMayorDeEdad());
     }
 }

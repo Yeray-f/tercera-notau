@@ -1,6 +1,5 @@
 package GestionParqueadero;
 
-
 public class EspacioParqueadero {
 
     private int numero;

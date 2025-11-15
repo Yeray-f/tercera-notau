@@ -1,4 +1,4 @@
-package GestionarHoarios;
+package GestionHorarios;
 
 import java.util.ArrayList;
 

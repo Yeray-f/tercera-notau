@@ -1,5 +1,4 @@
-package GestionarHoarios;
-
+package GestionHorarios;
 public class Main {
     public static void main(String[] args) {
 

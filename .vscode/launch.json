@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaPersona",
+            "request": "launch",
+            "mainClass": "PruebaPersona",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
+            "name": "PruebaRectangulo",
+            "request": "launch",
+            "mainClass": "PruebaRectangulo",
+            "projectName": "TerceraNota_87a25887"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio2",
             "request": "launch",
             "mainClass": "Ejercicio2",
