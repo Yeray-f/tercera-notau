@@ -1,7 +1,4 @@
-package Ejemplos;
-
 import java.util.Scanner;
-
 public class nombre {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
