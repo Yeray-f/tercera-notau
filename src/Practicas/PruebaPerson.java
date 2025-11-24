@@ -1,13 +1,18 @@
-public class PruebaPersona {
+public class PruebaPerson {
     public static void main(String[] args) {
+    
+        Person persona1 = new Person("Lina", 20, 60.0, 1.65);
 
-        Persona p1 = new Persona("Fer", 17, 55.0, 1.60);
+        persona1.mostrarInformacion();
 
-        p1.mostrarInformacion();
+        persona1.setEdad(22);
+        persona1.setPeso(62.0);
 
-        p1.setEdad(18);
-        p1.setPeso(56);
+        System.out.println("\nDespués de actualizar algunos datos:");
+        persona1.mostrarInformacion();
 
-        p1.mostrarInformacion();
+        Person persona2 = new Person("Carlos", 16, 55.0, 1.70);
+        System.out.println("\nInformación de la segunda persona:");
+        persona2.mostrarInformacion();
     }
 }
